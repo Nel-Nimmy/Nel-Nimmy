@@ -6,7 +6,7 @@ Data Analyst Intern
 
 “I am a former Transaction Risk Investigator at Amazon, now aspiring to grow as a Data Analyst. I have hands-on experience in SQL, Excel, Tableau, and Power BI, and I enjoy turning raw data into actionable insights. On this GitHub, I share projects demonstrating data cleaning, visualization, and analysis, showcasing my ability to solve real-world problems through data.”
 
-* 🌍  I'm based in United Arab Emirates
+* 🌍  I'm based in Sharjah,United Arab Emirates
 * ✉️  You can contact me at [nimmynelson264@gmail.com](mailto:nimmynelson264@gmail.com)
 
 <p align="left">
